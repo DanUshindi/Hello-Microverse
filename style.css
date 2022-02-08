@@ -8,7 +8,7 @@ body {
   background: gainsboro;
 }
 
-h1 {
+.title {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: navy;
 }
